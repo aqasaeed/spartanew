@@ -219,7 +219,7 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "leave_ban"
+    "leave_ban",
     "boobs"
     },
     sudo_users = {146340607,163180332,156907037},--Sudo users
